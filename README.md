@@ -12,4 +12,4 @@ tarea 2
  3. Crea una lista ordenada y para agregar mas frutas a tu catalogo crea un input y un boton que nos facilitara añadir  cualquier fruta que deseemos a la lista.
  4. REaliza los commits que creas necesario y no olvies añadir tu **README.md** donde explicaras todo lo que aplicaste en este proyecto.
 
-![lista-frutas](assets/img/lista-frutas.PNG);
+![lista-frutas](assets/img/lista-frutas.PNG)
